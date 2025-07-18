@@ -1,1 +1,1 @@
-This feature will improve user login experience. 
+This is a new feature.
